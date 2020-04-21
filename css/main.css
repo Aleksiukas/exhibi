@@ -1,0 +1,50 @@
+body {
+    display: inline-block;
+    
+}
+    .container {
+        display: inline-block;
+        width: 70%;
+        height: 600px;
+        margin-left: calc( 50% - 35%);
+        margin-top: 80px;
+        background-color: aqua;
+    }
+       
+            .main {
+                display: inline-block;
+                background-color: blue;
+                background-image: url(../img/lapas.png);
+                width: 47%;
+                padding-left: 3%;
+                float: left;
+
+            }
+                h1 {
+                    display: inline-block;
+                    position: absolute;
+                    
+                }
+                .omg {
+                    display: inline-block;
+
+                }
+                .scnd {
+                    display: inline-block;
+
+                }
+                .long  {
+                    display: inline-block;
+
+                }
+                a {
+                    display: inline-block;
+
+            }
+            .img {
+                display: inline-block;
+                width: 57%;
+                float: right;
+                background-color: red;
+                margin-top: 116px;
+            }
